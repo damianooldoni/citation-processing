@@ -1,0 +1,349 @@
+---
+title: "Journals Citation Analysis"
+author: 
+- Damiano Oldoni
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    theme: yeti
+    df_print: paged
+knit: (function(input_file, encoding) { rmarkdown::render(input_file, encoding = encoding, output_file = paste0("../docs/",sub(".Rmd", ".html", basename(input_file))))})
+---
+
+
+```{r global_options, include = FALSE}
+knitr::opts_chunk$set(warning=FALSE, message=FALSE)
+```
+
+# Setup
+ 
+## Load libraries
+ 
+```{r load_libraries, message = FALSE}
+# string manipulation
+library(stringr)
+# data wrangling
+library(dplyr)
+library(tidyr)
+library(purrr)
+# plot
+library(ggplot2)
+# write/read text files
+library(readr)
+```
+
+In case some libraries are not found, they have to be installed first and then loaded. Here below an example:
+
+```r
+install.packages(c("dplyr", "tidyr"))
+library(dplyr)
+library(tidyr)
+```
+
+## File paths
+
+Specify the directory containing raw files:
+
+```{r path_file}
+files_dir <- "../data/raw/Wos advanced search query results_verwerking/"
+```
+
+Retrieve all input text files:
+
+```{r extract_names_from_dir}
+files_all <- dir(files_dir)
+files <- files_all[which(str_detect(files_all, pattern = "txt"))]
+files[]
+```
+
+# Load and tidy data
+
+## Import raw citation data
+
+Import the text files containing the raw output of WOS queries:
+
+```{r import_data, warning=FALSE}
+raw_WOS_output <- map(files, ~ read_csv(
+  str_c(files_dir, ., sep = "/"),
+  skip = 3, col_names = FALSE, col_types = cols(X2 = col_character())))
+```
+
+## Tidy data
+
+Analysis will benefit of tidying our data. In tidy data:
+
+1. Each variable forms a column.
+2. Each observation forms a row.
+
+In our case, _year_ and _departement_ are two important variables.
+
+### Add year and departement
+
+Get year and departement identifiers _WExx_ from filenames:
+
+```{r extract_WExx_and_years}
+deps <- map_chr(files, ~ 
+              str_sub(unlist(
+                str_split(., pattern = "_"))[6],
+                start = 1, end = 4))
+years <- map_chr(files, ~ 
+              str_sub(unlist(
+                str_split(., pattern = "_"))[5],
+                start = 1, end = 4))
+```
+
+Add departement and year to each data frame:
+
+```{r tidy_df_raw_data}
+raw_WOS_df <- map2(raw_WOS_output, deps, 
+                      function(x, d) mutate(x, dep = d))
+raw_WOS_df <- map2(raw_WOS_df, years, 
+                      function(x, y) mutate(x, year = y))
+```
+
+### Cleaning
+
+Some rows do not contain any relevant information:
+
+```{r example}
+raw_WOS_df[[1]] %>% 
+  filter(is.na(X2) & is.na(X3))
+```
+
+We remove them from all data frames:
+
+```{r}
+raw_WOS_df <- map(raw_WOS_df, 
+                  function(x) filter(x, (!is.na(X2) | !is.na(X3))))
+```
+
+Some data frames contain rows with journal titles in second column instead of third one:
+
+```{r preview1}
+raw_WOS_df[[1]] %>% 
+  filter(is.na(as.numeric(X2))) %>%
+  filter(!is.na(X2))
+```
+
+In these cases we should copy the content of the second column to the third one. We remove these titles from second column, as it should contain year of publication instead. We also give appropriate names to the columns. We call this list of data frames `clean_WOS_dfs`:
+
+```{r make_clean_tidy_WOS_df}
+clean_WOS_dfs <- map(raw_WOS_df, 
+                  function(x) 
+                    mutate(x, X3 = case_when(
+                      is.na(X3) ~ X2,
+                      TRUE ~ X3
+)))
+# change names to columns  & set publication_year as integer
+clean_WOS_dfs <- map(clean_WOS_dfs,
+                    function(x)
+                      select(
+                        mutate(x, publication_year = as.numeric(X2), 
+                               journal = X3, author = X1),
+                        -starts_with("X"))
+)
+```
+
+We can now merge all the data frames together, thus creating a complete **tidy** data frame:
+
+```{r make_tidy_WOS_df_by_merge}
+tidy_WOS_df <- bind_rows(clean_WOS_dfs)
+```
+
+Some journals are in lowercase. It means they are not A1 journals. Some examples:
+
+```{r show_some_not_A1}
+tidy_WOS_df %>%
+  filter(!journal == toupper(journal)) %>%
+  head(n = 10)
+```
+
+We remove them:
+
+```{r remove_not_A1}
+tidy_WOS_df <- tidy_WOS_df %>%
+  filter(journal == toupper(journal))
+```
+
+Some preview (randomly picked up) of the tidy data frame:
+
+```{r preview_random}
+tidy_WOS_df %>% 
+  sample_n(20) %>%
+  arrange(dep)
+```
+
+Save the tidy data frame, as it is the base of any further analysis:
+
+```{r save_raw_tidy_data}
+write_tsv(tidy_WOS_df, 
+          path = "../data/processed/tidy_WOS_df.txt", 
+          na = "")
+```
+
+# Analyze data
+
+## Total number of cited journals
+
+First, we calculate the total number of cited journals per departement per year:
+
+```{r tot_n_journals}
+total_n_journals <- tidy_WOS_df %>% 
+  group_by(dep, year) %>% 
+  # use distinct() in order to not count multiple citations from same journal
+  distinct(journal) %>%
+  count() %>%
+  rename(tot_n_journals = n)
+total_n_journals
+```
+
+See graphs below:
+
+```{r plot_tot_n_journals, echo = FALSE}
+ggplot(total_n_journals, 
+       aes(x = dep, y = tot_n_journals)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~ year) +
+    theme(strip.text = element_text(size=12),
+        axis.text.x = element_text(angle = 90, hjust = 1, size = 8))
+```
+
+More details about changes in number of cited journals for each departement:
+
+```{r plot_by_dep, echo = FALSE}
+map(unique(deps), function(x) 
+  ggplot(total_n_journals %>% filter(dep == x), 
+         aes(x = year, y = tot_n_journals)) +
+    geom_bar(stat = "identity") +
+  ggtitle(x))
+```
+
+Maximum and minimum:
+
+```{r max_min_tot, echo = FALSE}
+paste("Maximum:", max(total_n_journals$tot_n_journals),
+      paste0("(dep ", 
+total_n_journals$dep[
+  which(total_n_journals$tot_n_journals == max(total_n_journals$tot_n_journals))],
+", year ",
+total_n_journals$year[
+  which(total_n_journals$tot_n_journals == max(total_n_journals$tot_n_journals))],
+")"))
+paste("Minimum:", min(total_n_journals$tot_n_journals),
+      paste0("(dep ", 
+total_n_journals$dep[
+  which(total_n_journals$tot_n_journals == min(total_n_journals$tot_n_journals))],
+", year ",
+total_n_journals$year[
+  which(total_n_journals$tot_n_journals == min(total_n_journals$tot_n_journals))],
+")"))
+```
+
+Some stats for each departement:
+
+```{r std_dev}
+stats_cited_journals <- total_n_journals %>% 
+  group_by(dep) %>%
+  summarize(
+    mean_journals = as.integer(mean(tot_n_journals)),
+    st_dev_journals = as.integer(sd(tot_n_journals)),
+    perc_variability = as.integer(st_dev_journals/mean_journals*100)) %>%
+  arrange(desc(mean_journals))
+  
+stats_cited_journals
+```
+
+## Fixed threshold
+
+We first show how many journals have been cited per each departement and year more than _x_ time, with _x_ between 1 and 10:
+
+```{r fixed_threhsold}
+limit <- 1:10
+tot_n_journals <- tidy_WOS_df %>%
+  group_by(dep, year, journal) %>%
+  count() %>%
+  arrange(dep, year, desc(n)) %>%
+  ungroup()
+
+more_less_limit <- map(limit, function(x)
+  tot_n_journals %>%
+    mutate(more_or_less = if_else(n > x,
+                                  "+", "- or =")) %>%
+    mutate(limit = x))
+
+# merge in a single data frame
+more_less_limit <- bind_rows(more_less_limit) %>%
+  ungroup()
+
+stat_more_less_limit <- more_less_limit %>%
+  group_by(dep, year, limit, more_or_less) %>%
+  summarize(n_journals = n()) %>%
+  ungroup() %>%
+  left_join(total_n_journals, by = c("dep", "year")) %>%
+  mutate(perc_n_journals = round(n_journals/tot_n_journals*100))
+```
+
+Stacked histogram:
+
+```{r test, echo = FALSE}
+map(limit,function(x)
+  ggplot(stat_more_less_limit %>% 
+           filter(limit == x), 
+       aes(x = dep, y = perc_n_journals, fill = more_or_less)) +
+    geom_col(position = "stack") +
+    facet_wrap(~ year, ncol = 2) +
+    ggtitle(paste("% number journals cited more/less than", x, "time(s)")) + 
+    theme(strip.text = element_text(size=12),
+          axis.text.x = element_text(angle = 90, hjust = 1, size = 8)))
+```
+
+## Relative threshold
+
+By using a fixed threshold the proportion of journals cited more than _x_ times by each departement will be never the same. So, alternatively, we can fix the percentage of cited journals and then we calculate the percentiles based on total number of cited journals by each departement. We use percentiles from 5% to 30% with steps of 5%:
+
+```{r fixed_limit_percentage}
+rank_journals <- tot_n_journals %>%
+  group_by(dep, year) %>%
+  mutate(rank = rank(desc(n), ties.method = "min")) %>%
+  ungroup() %>%
+  left_join(total_n_journals, by = c("dep","year")) %>%
+  mutate(perc_rank = rank / tot_n_journals * 100)
+  
+  
+limit_perc <- seq(5, 30, 5)
+names(limit_perc) <- str_c("perc_rank", limit_perc, sep = "_")
+n_journals_less <- map_df(limit_perc, function(x)
+  rank_journals %>% 
+    filter(perc_rank < x) %>%
+    group_by(dep, year) %>%
+    summarize(percentile = x,
+              n_journals_less_perc = n(),
+              journals = paste(journal, collapse = ","))) %>%
+  ungroup()
+n_journals_less
+```
+
+Plot per departement and year:
+
+```{r plot_n_journals_less_percentile}
+map(limit_perc, function(x)
+      ggplot(n_journals_less %>%
+               filter(percentile == x),
+             aes(x = dep, y = n_journals_less_perc)) +
+      geom_col() +
+      facet_wrap(~ year)  + 
+      theme(strip.text = element_text(size=12),
+        axis.text.x = element_text(angle = 90, hjust = 1, size = 8)))
+```
+
+The column `journals` contains the journals which are sufficiently cited to be included in this percentile-based threshold. They are also ordered by number of citations (rank). We save this data frame:
+
+```{r write_output_in_txt_file}
+write_tsv(n_journals_less, 
+          path = "../data/processed/percentile_threshold_journals.txt",
+          na = "")
+```
