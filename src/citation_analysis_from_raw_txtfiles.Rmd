@@ -35,6 +35,8 @@ library(purrr)
 library(ggplot2)
 # write/read text files
 library(readr)
+# write/read Excel files
+library(readxl)
 ```
 
 In case some libraries are not found, they have to be installed first and then loaded. Here below an example:
