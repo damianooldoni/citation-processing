@@ -63,6 +63,12 @@ files <- files_all[which(str_detect(files_all, pattern = "txt"))]
 files[]
 ```
 
+File containing list of A1 journals:
+
+```{r import_journals_titles}
+journals_A1_file <- "../data/raw/WoS_journal_titel_abbreviations.xlsx"
+```
+
 # Load and tidy data
 
 ## Import raw citation data
@@ -73,6 +79,18 @@ Import the text files containing the raw output of WOS queries:
 raw_WOS_output <- map(files, ~ read_csv(
   str_c(files_dir, ., sep = "/"),
   skip = 3, col_names = FALSE, col_types = cols(X2 = col_character())))
+```
+
+## Import list of A1 journals
+
+We import list of journals included in Web of Science catalogue (A1 journals):
+
+```{r import_list_A1_journals}
+wos_journals <- read_excel(journals_A1_file, 
+    col_names = c("journal_title", "abbreviation"))
+wos_journals <- wos_journals %>%
+  filter(!is.na(journal_title)) %>%
+  mutate_if(is.factor, as.character)
 ```
 
 ## Tidy data
