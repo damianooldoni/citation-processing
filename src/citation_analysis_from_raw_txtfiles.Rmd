@@ -237,7 +237,7 @@ tidy_WOS_df %>% distinct(journal) %>% count() %>% pull() -
 First, we calculate the total number of cited journals per departement per year:
 
 ```{r tot_n_journals}
-total_n_journals <- tidy_WOS_df %>% 
+total_n_journals <- shortlist_WOS_df %>% 
   group_by(dep, year) %>% 
   # use distinct() in order to not count multiple citations from same journal
   distinct(journal) %>%
@@ -308,7 +308,7 @@ We first show how many journals have been cited per each departement and year mo
 
 ```{r fixed_threhsold}
 limit <- 1:10
-tot_n_journals <- tidy_WOS_df %>%
+tot_n_journals <- shortlist_WOS_df %>%
   group_by(dep, year, journal) %>%
   count() %>%
   arrange(dep, year, desc(n)) %>%
