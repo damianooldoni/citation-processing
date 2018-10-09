@@ -99,6 +99,16 @@ wos_journals <- wos_journals %>%
   mutate_if(is.factor, as.character)
 ```
 
+## Import list of journals included in central library's subscription
+
+Import the text files containing the raw output of WOS queries:
+
+```{r import_data, warning=FALSE}
+raw_WOS_output <- map(files, ~ read_csv(
+  str_c(files_dir, ., sep = "/"),
+  skip = 3, col_names = FALSE, col_types = cols(X2 = col_character())))
+```
+
 ## Tidy data
 
 Analysis will benefit of tidying our data. In tidy data:
