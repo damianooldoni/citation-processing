@@ -101,12 +101,12 @@ wos_journals <- wos_journals %>%
 
 ## Import list of journals included in central library's subscription
 
-Import the text files containing the raw output of WOS queries:
+Import the Excel file containing the journals whose subscription is already provided by the central library:
 
-```{r import_data, warning=FALSE}
-raw_WOS_output <- map(files, ~ read_csv(
-  str_c(files_dir, ., sep = "/"),
-  skip = 3, col_names = FALSE, col_types = cols(X2 = col_character())))
+```{r }
+subscriptions_to_subtract <- read_excel(
+  "../data/raw/RMS_voorafname_WoS_match v.5.xlsx", 
+  sheet = "Weglaten", col_names = c("journal", "abbreviation"), skip = 1)
 ```
 
 ## Tidy data
