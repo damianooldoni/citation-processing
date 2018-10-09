@@ -191,19 +191,11 @@ We can now merge all the data frames together, thus creating a complete **tidy**
 tidy_WOS_df <- bind_rows(clean_WOS_dfs)
 ```
 
-Some journals are in lowercase. It means they are not A1 journals. Some examples:
+Some journals are in lowercase. We set them uppercase:
 
 ```{r show_some_not_A1}
-tidy_WOS_df %>%
-  filter(!journal == toupper(journal)) %>%
-  head(n = 10)
-```
-
-We remove them:
-
-```{r remove_not_A1}
 tidy_WOS_df <- tidy_WOS_df %>%
-  filter(journal == toupper(journal))
+  mutate(journal = toupper(journal))
 ```
 
 Some preview (randomly picked up) of the tidy data frame:
