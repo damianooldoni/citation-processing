@@ -72,7 +72,7 @@ journals_A1_file <- "../data/raw/WoS_journal_titel_abbreviations.xlsx"
 Specify path of excel file containing journals whose subscription is already included:
 
 ```{r path_excel_file_voorafname}
-subscription_to_subtract_file <- "../data/raw/RMS_voorafname_WoS_match v.5.xlsx"
+subscriptions_to_subtract_file <- "../data/raw/RMS_voorafname_WoS_match v.5.xlsx"
 ```
 
 # Load and tidy data
