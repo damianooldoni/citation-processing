@@ -216,6 +216,22 @@ write_tsv(tidy_WOS_df,
 
 # Analyze data
 
+## Remove journals included in central library subscription
+
+The journals included in standard central library subscription shouldn't be taken into account:
+
+```{r remove_standard_A1_journals}
+shortlist_WOS_df <- tidy_WOS_df %>%
+  filter(!journal %in% subscriptions_to_subtract$abbreviation)
+```
+
+Number of journals removed:
+
+```{r show_n_journals_removed}
+tidy_WOS_df %>% distinct(journal) %>% count() %>% pull() - 
+  shortlist_WOS_df %>% distinct(journal) %>% count()  %>% pull()
+```
+
 ## Total number of cited journals
 
 First, we calculate the total number of cited journals per departement per year:
