@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 # exclude everything in data
+/data
 # except these files
 !/data/raw/raw_example.txt
 !/data/processed/processed_example.txt
