@@ -302,6 +302,11 @@ stats_cited_journals <- total_n_journals %>%
 stats_cited_journals
 ```
 
+### Aggregated values
+
+We show now aggregated values by using a time window of 5 years.
+
+
 ## Fixed threshold
 
 We first show how many journals have been cited per each departement and year more than _x_ time, with _x_ between 1 and 10:
