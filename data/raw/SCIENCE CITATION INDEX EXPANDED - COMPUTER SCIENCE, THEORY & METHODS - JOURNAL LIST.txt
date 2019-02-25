@@ -1,0 +1,566 @@
+SCIENCE CITATION INDEX EXPANDED - COMPUTER SCIENCE, THEORY & METHODS - JOURNAL LIST 
+Total journals: 105
+
+1. ACM COMPUTING SURVEYS
+Quarterly ISSN: 0360-0300
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+2. ACM TRANSACTIONS ON ALGORITHMS
+Quarterly ISSN: 1549-6325
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+3. ACM TRANSACTIONS ON ARCHITECTURE AND CODE OPTIMIZATION
+Quarterly ISSN: 1544-3566
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+4. ACM TRANSACTIONS ON AUTONOMOUS AND ADAPTIVE SYSTEMS
+Quarterly ISSN: 1556-4665
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+5. ACM TRANSACTIONS ON COMPUTATIONAL LOGIC
+Quarterly ISSN: 1529-3785
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+6. ACM TRANSACTIONS ON COMPUTER SYSTEMS
+Quarterly ISSN: 0734-2071
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+7. ACM TRANSACTIONS ON MULTIMEDIA COMPUTING COMMUNICATIONS AND APPLICATIONS
+Quarterly ISSN: 1551-6857
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+8. ADVANCES IN MATHEMATICS OF COMMUNICATIONS
+Quarterly ISSN: 1930-5346
+AMER INST MATHEMATICAL SCIENCES-AIMS, PO BOX 2604, SPRINGFIELD, USA, MO, 65801-2604
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+9. APPLICABLE ALGEBRA IN ENGINEERING COMMUNICATION AND COMPUTING
+Bimonthly ISSN: 0938-1279
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+10. APPLIED ONTOLOGY
+Quarterly ISSN: 1570-5838
+IOS PRESS, NIEUWE HEMWEG 6B, AMSTERDAM, NETHERLANDS, 1013 BG
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+11. ARTIFICIAL LIFE
+Quarterly ISSN: 1064-5462
+MIT PRESS, ONE ROGERS ST, CAMBRIDGE, USA, MA, 02142-1209
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+Zoological Record
+BIOSIS Previews
+12. BIG DATA
+Quarterly ISSN: 2167-6461
+MARY ANN LIEBERT, INC, 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, USA, NY, 10801
+Science Citation Index Expanded
+13. BIG DATA RESEARCH
+Quarterly ISSN: 2214-5796
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+14. CLUSTER COMPUTING-THE JOURNAL OF NETWORKS SOFTWARE TOOLS AND APPLICATIONS
+Quarterly ISSN: 1386-7857
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+15. COMBINATORICS PROBABILITY & COMPUTING
+Bimonthly ISSN: 0963-5483
+CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473
+Science Citation Index Expanded
+Current Contents - Physical, Chemical & Earth Sciences
+16. COMMUNICATIONS OF THE ACM
+Monthly ISSN: 0001-0782
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+17. COMPUTATIONAL COMPLEXITY
+Quarterly ISSN: 1016-3328
+SPRINGER BASEL AG, PICASSOPLATZ 4, BASEL, SWITZERLAND, 4052
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+18. COMPUTER JOURNAL
+Bimonthly ISSN: 0010-4620
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+19. COMPUTER METHODS AND PROGRAMS IN BIOMEDICINE
+Monthly ISSN: 0169-2607
+ELSEVIER IRELAND LTD, ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, IRELAND, 000 00
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Life Sciences
+BIOSIS Previews
+20. COMPUTER SYSTEMS SCIENCE AND ENGINEERING
+Bimonthly ISSN: 0267-6192
+C R L PUBLISHING LTD, 5 WEIR RD, KIBWORTH BEAUCHAMP, LEICESTER, ENGLAND, LE8 0LQ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+21. COMPUTING
+Bimonthly ISSN: 0010-485X
+SPRINGER WIEN, SACHSENPLATZ 4-6, PO BOX 89, WIEN, AUSTRIA, A-1201
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+22. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE
+Semimonthly ISSN: 1532-0626
+WILEY, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+23. CONNECTION SCIENCE
+Quarterly ISSN: 0954-0091
+TAYLOR & FRANCIS LTD, 2-4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OR14 4RN
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+24. CONSTRAINTS
+Quarterly ISSN: 1383-7133
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+25. CRYPTOGRAPHY AND COMMUNICATIONS-DISCRETE-STRUCTURES BOOLEAN FUNCTIONS AND S EQUENCES
+Quarterly ISSN: 1936-2447
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+26. CRYPTOLOGIA
+Quarterly ISSN: 0161-1194
+TAYLOR & FRANCIS INC, 530 WALNUT STREET, STE 850, PHILADELPHIA, USA, PA, 19106
+Science Citation Index Expanded
+27. DESIGNS CODES AND CRYPTOGRAPHY
+Monthly ISSN: 0925-1022
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+28. DISCRETE & COMPUTATIONAL GEOMETRY
+Bimonthly ISSN: 0179-5376
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+29. DISTRIBUTED AND PARALLEL DATABASES
+Quarterly ISSN: 0926-8782
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+30. DISTRIBUTED COMPUTING
+Quarterly ISSN: 0178-2770
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+31. EVOLUTIONARY COMPUTATION
+Quarterly ISSN: 1063-6560
+MIT PRESS, ONE ROGERS ST, CAMBRIDGE, USA, MA, 02142-1209
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+BIOSIS Previews
+32. EXPERT SYSTEMS
+Bimonthly ISSN: 0266-4720
+WILEY, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+33. FORMAL METHODS IN SYSTEM DESIGN
+Bimonthly ISSN: 0925-9856
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+34. FOUNDATIONS OF COMPUTATIONAL MATHEMATICS
+Bimonthly ISSN: 1615-3375
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Physical, Chemical & Earth Sciences
+35. FRONTIERS OF COMPUTER SCIENCE
+Bimonthly ISSN: 2095-2228
+HIGHER EDUCATION PRESS, NO 4 DEWAI DAJIE, BEIJING, PEOPLES R CHINA, 100120
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+36. FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+Monthly ISSN: 0167-739X
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+37. FUZZY SETS AND SYSTEMS
+Semimonthly ISSN: 0165-0114
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+38. GENETIC PROGRAMMING AND EVOLVABLE MACHINES
+Quarterly ISSN: 1389-2576
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+39. HUMAN-COMPUTER INTERACTION
+Bimonthly ISSN: 0737-0024
+TAYLOR & FRANCIS INC, 530 WALNUT STREET, STE 850, PHILADELPHIA, USA, PA, 19106
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+40. IBM JOURNAL OF RESEARCH AND DEVELOPMENT
+Bimonthly ISSN: 0018-8646
+IBM CORP, 1 NEW ORCHARD ROAD, ARMONK, USA, NY, 10504
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+41. IEEE ANNALS OF THE HISTORY OF COMPUTING
+Quarterly ISSN: 1058-6180
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index Expanded
+Arts & Humanities Citation Index
+Current Contents - Engineering, Computing & Technology
+Current Contents - Arts & Humanities
+42. IEEE CLOUD COMPUTING
+Bimonthly ISSN: 2325-6095
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+43. IEEE MULTIMEDIA
+Quarterly ISSN: 1070-986X
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+44. IEEE TRANSACTIONS ON CLOUD COMPUTING
+Quarterly ISSN: 2168-7161
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+45. IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION
+Bimonthly ISSN: 1089-778X
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+BIOSIS Previews
+46. IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+Monthly ISSN: 1556-6013
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+47. IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+Monthly ISSN: 2162-237X
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+48. IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS
+Monthly ISSN: 1045-9219
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+49. IEEE-ACM TRANSACTIONS ON NETWORKING
+Bimonthly ISSN: 1063-6692
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+50. IET COMPUTERS AND DIGITAL TECHNIQUES
+Bimonthly ISSN: 1751-8601
+INST ENGINEERING TECHNOLOGY-IET, MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND, SG1 2AY
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+51. IET INFORMATION SECURITY
+Bimonthly ISSN: 1751-8709
+INST ENGINEERING TECHNOLOGY-IET, MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND, SG1 2AY
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+52. IMAGE AND VISION COMPUTING
+Monthly ISSN: 0262-8856
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+53. INFORMATION AND COMPUTATION
+Bimonthly ISSN: 0890-5401
+ACADEMIC PRESS INC ELSEVIER SCIENCE, 525 B ST, STE 1900, SAN DIEGO, USA, CA, 92101-4495
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+54. INFORMATION FUSION
+Bimonthly ISSN: 1566-2535
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+55. INFORMATION SYSTEMS FRONTIERS
+Bimonthly ISSN: 1387-3326
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+56. INTERNATIONAL JOURNAL OF BIO-INSPIRED COMPUTATION
+Bimonthly ISSN: 1758-0366
+INDERSCIENCE ENTERPRISES LTD, WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, GENEVA, SW ITZERLAND, CH-1215
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+57. INTERNATIONAL JOURNAL OF FOUNDATIONS OF COMPUTER SCIENCE
+Bimonthly ISSN: 0129-0541
+WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE, SINGAPORE, 596224
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+58. INTERNATIONAL JOURNAL OF GENERAL SYSTEMS
+Bimonthly ISSN: 0308-1079
+TAYLOR & FRANCIS LTD, 2-4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OR14 4RN
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+59. INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS
+Quarterly ISSN: 1094-3420
+SAGE PUBLICATIONS LTD, 1 OLIVERS YARD, 55 CITY ROAD, LONDON, ENGLAND, EC1Y 1SP
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+60. INTERNATIONAL JOURNAL OF INFORMATION SECURITY
+Bimonthly ISSN: 1615-5262
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+61. INTERNATIONAL JOURNAL OF PARALLEL PROGRAMMING
+Bimonthly ISSN: 0885-7458
+SPRINGER/PLENUM PUBLISHERS, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+62. INTERNATIONAL JOURNAL OF QUANTUM INFORMATION
+Bimonthly ISSN: 0219-7499
+WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE, SINGAPORE, 596224
+Science Citation Index Expanded
+Current Contents - Physical, Chemical & Earth Sciences
+63. INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE
+Monthly ISSN: 0020-7721
+TAYLOR & FRANCIS LTD, 2-4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OR14 4RN
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+64. INTERNATIONAL JOURNAL OF UNCONVENTIONAL COMPUTING
+Bimonthly ISSN: 1548-7199
+OLD CITY PUBLISHING INC, 628 NORTH 2ND ST, PHILADELPHIA, USA, PA, 19123
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+65. JOURNAL OF CELLULAR AUTOMATA
+Quarterly ISSN: 1557-5969
+OLD CITY PUBLISHING INC, 628 NORTH 2ND ST, PHILADELPHIA, USA, PA, 19123
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+66. JOURNAL OF COMPUTATIONAL SCIENCE
+Quarterly ISSN: 1877-7503
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+67. JOURNAL OF COMPUTER AND SYSTEM SCIENCES
+Bimonthly ISSN: 0022-0000
+ACADEMIC PRESS INC ELSEVIER SCIENCE, 525 B ST, STE 1900, SAN DIEGO, USA, CA, 92101-4495
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+68. JOURNAL OF COMPUTER AND SYSTEMS SCIENCES INTERNATIONAL
+Bimonthly ISSN: 1064-2307
+PLEIADES PUBLISHING INC, PLEIADES PUBLISHING INC, MOSCOW, RUSSIA, 00000
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+69. JOURNAL OF CRYPTOLOGY
+Quarterly ISSN: 0933-2790
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+70. JOURNAL OF GRID COMPUTING
+Quarterly ISSN: 1570-7873
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+71. JOURNAL OF HEURISTICS
+Bimonthly ISSN: 1381-1231
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+72. JOURNAL OF LOGIC AND COMPUTATION
+Bimonthly ISSN: 0955-792X
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP
+Science Citation Index Expanded
+73. JOURNAL OF LOGICAL AND ALGEBRAIC METHODS IN PROGRAMMING
+Bimonthly ISSN: 2352-2208
+ELSEVIER SCIENCE INC, 360 PARK AVE SOUTH, NEW YORK, USA, NY, 10010-1710
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+74. JOURNAL OF MULTIPLE-VALUED LOGIC AND SOFT COMPUTING
+Bimonthly ISSN: 1542-3980
+OLD CITY PUBLISHING INC, 628 NORTH 2ND ST, PHILADELPHIA, USA, PA, 19123
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+75. JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING
+Monthly ISSN: 0743-7315
+ACADEMIC PRESS INC ELSEVIER SCIENCE, 525 B ST, STE 1900, SAN DIEGO, USA, CA, 92101-4495
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+76. JOURNAL OF SUPERCOMPUTING
+Monthly ISSN: 0920-8542
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+77. JOURNAL OF SYMBOLIC COMPUTATION
+Bimonthly ISSN: 0747-7171
+ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD, 24-28 OVAL RD, LONDON, ENGLAND, NW1 7DX
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+78. JOURNAL OF SYSTEMS AND SOFTWARE
+Monthly ISSN: 0164-1212
+ELSEVIER SCIENCE INC, 360 PARK AVE SOUTH, NEW YORK, USA, NY, 10010-1710
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+79. JOURNAL OF THE ACM
+Bimonthly ISSN: 0004-5411
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+80. JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+Monthly ISSN: 0948-695X
+GRAZ UNIV TECHNOLGOY, INST INFORMATION SYSTEMS COMPUTER MEDIA-IICM, INFFELDGASSE 16C, GRAZ, AUSTRIA, A-8010
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+81. JOURNAL OF WEB ENGINEERING
+Bimonthly ISSN: 1540-9589
+RINTON PRESS, INC, 565 EDMUND TERRACE, PARAMUS, USA, NJ, 07652
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+82. LOGICAL METHODS IN COMPUTER SCIENCE
+Irregular ISSN: 1860-5974
+LOGICAL METHODS COMPUTER SCIENCE E V, KLEISTSTR 22, BRAUNSCHWEIG, GERMANY, 38124
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+83. MALAYSIAN JOURNAL OF COMPUTER SCIENCE
+Quarterly ISSN: 0127-9084
+UNIV MALAYA, FAC COMPUTER SCIENCE & INFORMATION TECH, UNIV MALAYA, FAC COMPUTER SCIENCE & INFORMATION TECH, KUALA LUMPUR, MALAYSI A, 50603
+Science Citation Index Expanded
+84. MATHEMATICAL STRUCTURES IN COMPUTER SCIENCE
+Bimonthly ISSN: 0960-1295
+CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+85. MICROPROCESSORS AND MICROSYSTEMS
+Bimonthly ISSN: 0141-9331
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+86. MULTIDIMENSIONAL SYSTEMS AND SIGNAL PROCESSING
+Quarterly ISSN: 0923-6082
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+87. MULTIMEDIA SYSTEMS
+Bimonthly ISSN: 0942-4962
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+88. MULTIMEDIA TOOLS AND APPLICATIONS
+Monthly ISSN: 1380-7501
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+89. NATURAL COMPUTING
+Quarterly ISSN: 1567-7818
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+BIOSIS Previews
+90. NEW GENERATION COMPUTING
+Quarterly ISSN: 0288-3635
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+91. PARALLEL COMPUTING
+Monthly ISSN: 0167-8191
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+92. PERFORMANCE EVALUATION
+Monthly ISSN: 0166-5316
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+93. PROBLEMS OF INFORMATION TRANSMISSION
+Quarterly ISSN: 0032-9460
+MAIK NAUKA/INTERPERIODICA/SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013-1578
+Science Citation Index Expanded
+94. QUANTUM INFORMATION & COMPUTATION
+Bimonthly ISSN: 1533-7146
+RINTON PRESS, INC, 565 EDMUND TERRACE, PARAMUS, USA, NJ, 07652
+Science Citation Index Expanded
+Current Contents - Physical, Chemical & Earth Sciences
+95. REAL-TIME SYSTEMS
+Bimonthly ISSN: 0922-6443
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+96. ROMANIAN JOURNAL OF INFORMATION SCIENCE AND TECHNOLOGY
+Quarterly ISSN: 1453-8245
+EDITURA ACAD ROMANE, CALEA 13 SEPTEMBRIE NR 13, SECTOR 5, BUCURESTI, ROMANIA, 050711
+Science Citation Index Expanded
+97. SEMANTIC WEB
+Bimonthly ISSN: 1570-0844
+IOS PRESS, NIEUWE HEMWEG 6B, AMSTERDAM, NETHERLANDS, 1013 BG
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+98. SIAM JOURNAL ON COMPUTING
+Bimonthly ISSN: 0097-5397
+SIAM PUBLICATIONS, 3600 UNIV CITY SCIENCE CENTER, PHILADELPHIA, USA, PA, 19104-2688
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+99. STATISTICS AND COMPUTING
+Quarterly ISSN: 0960-3174
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+100. SWARM AND EVOLUTIONARY COMPUTATION
+Bimonthly ISSN: 2210-6502
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+101. THEORETICAL COMPUTER SCIENCE
+Weekly ISSN: 0304-3975
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+102. THEORY AND PRACTICE OF LOGIC PROGRAMMING
+Bimonthly ISSN: 1471-0684
+CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+103. THEORY OF COMPUTING
+ISSN: 1557-2862
+UNIV CHICAGO, DEPT COMPUTER SCIENCE, 1100 E 58TH ST, CHICAGO, USA, IL, 60637
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+104. THEORY OF COMPUTING SYSTEMS
+Bimonthly ISSN: 1432-4350
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+105. WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
+Bimonthly ISSN: 1942-4787
+WILEY PERIODICALS, INC, ONE MONTGOMERY ST, SUITE 1200, SAN FRANCISCO, USA, CA, 94104
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology

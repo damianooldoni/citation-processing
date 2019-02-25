@@ -1,0 +1,284 @@
+SCIENCE CITATION INDEX EXPANDED - COMPUTER SCIENCE, HARDWARE & ARCHITECTURE - JOURNAL LIST 
+Total journals: 53
+
+1. ACM JOURNAL ON EMERGING TECHNOLOGIES IN COMPUTING SYSTEMS
+Quarterly ISSN: 1550-4832
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+2. ACM TRANSACTIONS ON ARCHITECTURE AND CODE OPTIMIZATION
+Quarterly ISSN: 1544-3566
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+3. ACM TRANSACTIONS ON DESIGN AUTOMATION OF ELECTRONIC SYSTEMS
+Quarterly ISSN: 1084-4309
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+4. ACM TRANSACTIONS ON EMBEDDED COMPUTING SYSTEMS
+Quarterly ISSN: 1539-9087
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+5. ACM TRANSACTIONS ON RECONFIGURABLE TECHNOLOGY AND SYSTEMS
+Quarterly ISSN: 1936-7406
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+6. ACM TRANSACTIONS ON STORAGE
+Quarterly ISSN: 1553-3077
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+7. ADVANCES IN COMPUTERS
+Annual ISSN: 0065-2458
+ELSEVIER ACADEMIC PRESS INC, 525 B STREET, SUITE 1900, SAN DIEGO, USA, CA, 92101-4495
+Science Citation Index Expanded
+8. ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING
+Monthly ISSN: 0925-1030
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+9. CANADIAN JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING-REVUE CANADIENNE DE GENIE ELECTRIQUE ET INFORMATIQUE
+Quarterly ISSN: 0840-8688
+IEEE CANADA, UNIVERSITE LAVAL, DEPT GENIE ELECTRIQUE, QUEBEC CITY, CANADA, PQ, G1K 7P4
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+10. COMMUNICATIONS OF THE ACM
+Monthly ISSN: 0001-0782
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+11. COMPUTER
+Monthly ISSN: 0018-9162
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+12. COMPUTER JOURNAL
+Bimonthly ISSN: 0010-4620
+OXFORD UNIV PRESS, GREAT CLARENDON ST, OXFORD, ENGLAND, OX2 6DP
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+13. COMPUTER NETWORKS
+Semimonthly ISSN: 1389-1286
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+14. COMPUTER STANDARDS & INTERFACES
+Bimonthly ISSN: 0920-5489
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+15. COMPUTER SYSTEMS SCIENCE AND ENGINEERING
+Bimonthly ISSN: 0267-6192
+C R L PUBLISHING LTD, 5 WEIR RD, KIBWORTH BEAUCHAMP, LEICESTER, ENGLAND, LE8 0LQ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+16. COMPUTERS & ELECTRICAL ENGINEERING
+Bimonthly ISSN: 0045-7906
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND, OX5 1GB
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+17. DESIGN AUTOMATION FOR EMBEDDED SYSTEMS
+Quarterly ISSN: 0929-5585
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+18. DISPLAYS
+Bimonthly ISSN: 0141-9382
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+19. IBM JOURNAL OF RESEARCH AND DEVELOPMENT
+Bimonthly ISSN: 0018-8646
+IBM CORP, 1 NEW ORCHARD ROAD, ARMONK, USA, NY, 10504
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+20. IEEE COMPUTER ARCHITECTURE LETTERS
+Semiannual ISSN: 1556-6056
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+21. IEEE CONSUMER ELECTRONICS MAGAZINE
+Quarterly ISSN: 2162-2248
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+22. IEEE DESIGN & TEST
+Bimonthly ISSN: 2168-2356
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+23. IEEE EMBEDDED SYSTEMS LETTERS
+Quarterly ISSN: 1943-0663
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+24. IEEE MICRO
+Bimonthly ISSN: 0272-1732
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+25. IEEE MULTIMEDIA
+Quarterly ISSN: 1070-986X
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+26. IEEE NETWORK
+Bimonthly ISSN: 0890-8044
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+27. IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTE MS
+Monthly ISSN: 0278-0070
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+28. IEEE TRANSACTIONS ON COMPUTERS
+Monthly ISSN: 0018-9340
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+29. IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING
+Bimonthly ISSN: 1545-5971
+IEEE COMPUTER SOC, 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, USA, CA, 90720-1314
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+30. IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+Monthly ISSN: 2162-237X
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+31. IEEE TRANSACTIONS ON RELIABILITY
+Quarterly ISSN: 0018-9529
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+32. IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS
+Monthly ISSN: 1063-8210
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+33. IEEE WIRELESS COMMUNICATIONS
+Bimonthly ISSN: 1536-1284
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+34. IEEE-ACM TRANSACTIONS ON NETWORKING
+Bimonthly ISSN: 1063-6692
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+35. IEICE TRANSACTIONS ON FUNDAMENTALS OF ELECTRONICS COMMUNICATIONS AND COMPUT ER SCIENCES
+Monthly ISSN: 1745-1337
+IEICE-INST ELECTRONICS INFORMATION COMMUNICATIONS ENG, KIKAI-SHINKO-KAIKAN BLDG, 3-5-8, SHIBA-KOEN, MINATO-KU, TOKYO, JAPAN, 105-0 011
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+36. IET COMPUTERS AND DIGITAL TECHNIQUES
+Bimonthly ISSN: 1751-8601
+INST ENGINEERING TECHNOLOGY-IET, MICHAEL FARADAY HOUSE SIX HILLS WAY STEVENAGE, HERTFORD, ENGLAND, SG1 2AY
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+37. INTEGRATION-THE VLSI JOURNAL
+Quarterly ISSN: 0167-9260
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+38. INTERNATIONAL JOURNAL OF HIGH PERFORMANCE COMPUTING APPLICATIONS
+Quarterly ISSN: 1094-3420
+SAGE PUBLICATIONS LTD, 1 OLIVERS YARD, 55 CITY ROAD, LONDON, ENGLAND, EC1Y 1SP
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+39. JOURNAL OF CIRCUITS SYSTEMS AND COMPUTERS
+Bimonthly ISSN: 0218-1266
+WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE, SINGAPORE, 596224
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+40. JOURNAL OF COMPUTER AND SYSTEM SCIENCES
+Bimonthly ISSN: 0022-0000
+ACADEMIC PRESS INC ELSEVIER SCIENCE, 525 B ST, STE 1900, SAN DIEGO, USA, CA, 92101-4495
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+41. JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY
+Bimonthly ISSN: 1000-9000
+SCIENCE PRESS, 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, PEOPLES R CHINA, 100717
+Science Citation Index Expanded
+42. JOURNAL OF NETWORK AND COMPUTER APPLICATIONS
+Semimonthly ISSN: 1084-8045
+ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD, 24-28 OVAL RD, LONDON, ENGLAND, NW1 7DX
+Science Citation Index Expanded
+43. JOURNAL OF OPTICAL COMMUNICATIONS AND NETWORKING
+Monthly ISSN: 1943-0620
+OPTICAL SOC AMER, 2010 MASSACHUSETTS AVE NW, WASHINGTON, USA, DC, 20036
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+44. JOURNAL OF SUPERCOMPUTING
+Monthly ISSN: 0920-8542
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+45. JOURNAL OF SYSTEMS ARCHITECTURE
+Monthly ISSN: 1383-7621
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+46. JOURNAL OF THE ACM
+Bimonthly ISSN: 0004-5411
+ASSOC COMPUTING MACHINERY, 2 PENN PLAZA, STE 701, NEW YORK, USA, NY, 10121-0701
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+47. MICROPROCESSORS AND MICROSYSTEMS
+Bimonthly ISSN: 0141-9331
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+48. MOBILE NETWORKS & APPLICATIONS
+Bimonthly ISSN: 1383-469X
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+49. NETWORKS
+Bimonthly ISSN: 0028-3045
+WILEY, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+50. NEW GENERATION COMPUTING
+Quarterly ISSN: 0288-3635
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+51. PERFORMANCE EVALUATION
+Monthly ISSN: 0166-5316
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+52. SUSTAINABLE COMPUTING-INFORMATICS & SYSTEMS
+Quarterly ISSN: 2210-5379
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+53. VLDB JOURNAL
+Bimonthly ISSN: 1066-8888
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology

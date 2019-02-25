@@ -1,0 +1,139 @@
+SCIENCE CITATION INDEX EXPANDED - ROBOTICS - JOURNAL LIST 
+Total journals: 26
+
+1. ADVANCED ROBOTICS
+Semimonthly ISSN: 0169-1864
+TAYLOR & FRANCIS LTD, 2-4 PARK SQUARE, MILTON PARK, ABINGDON, ENGLAND, OXON, OR14 4RN
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+2. APPLIED BIONICS AND BIOMECHANICS
+Irregular ISSN: 1176-2322
+HINDAWI LTD, ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, ENGLAND, W1T 5HF
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+3. AUTONOMOUS ROBOTS
+Bimonthly ISSN: 0929-5593
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+4. BIOINSPIRATION & BIOMIMETICS
+Quarterly ISSN: 1748-3182
+IOP PUBLISHING LTD, TEMPLE CIRCUS, TEMPLE WAY, BRISTOL, ENGLAND, BS1 6BE
+Science Citation Index Expanded
+Current Contents - Life Sciences
+Current Contents - Engineering, Computing & Technology
+Zoological Record
+BIOSIS Previews
+5. FRONTIERS IN NEUROROBOTICS
+Irregular ISSN: 1662-5218
+FRONTIERS MEDIA SA, AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, SWITZERLAND, CH-1015
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+6. IEEE ROBOTICS & AUTOMATION MAGAZINE
+Quarterly ISSN: 1070-9932
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+7. IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS
+Quarterly ISSN: 2379-8920
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+8. IEEE TRANSACTIONS ON ROBOTICS
+Bimonthly ISSN: 1552-3098
+IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, USA, NJ, 08855-4141
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+9. INDUSTRIAL ROBOT-THE INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH AND APPLICA TION
+Bimonthly ISSN: 0143-991X
+EMERALD GROUP PUBLISHING LTD, HOWARD HOUSE, WAGON LANE, BINGLEY, ENGLAND, W YORKSHIRE, BD16 1WA
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+10. INTELLIGENT SERVICE ROBOTICS
+Quarterly ISSN: 1861-2776
+SPRINGER HEIDELBERG, TIERGARTENSTRASSE 17, HEIDELBERG, GERMANY, D-69121
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+11. INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS
+ISSN: 1729-8814
+SAGE PUBLICATIONS INC, 2455 TELLER RD, THOUSAND OAKS, USA, CA, 91320
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+12. INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS
+Quarterly ISSN: 0219-8436
+WORLD SCIENTIFIC PUBL CO PTE LTD, 5 TOH TUCK LINK, SINGAPORE, SINGAPORE, 596224
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+13. INTERNATIONAL JOURNAL OF ROBOTICS & AUTOMATION
+Bimonthly ISSN: 0826-8185
+ACTA PRESS, 2509 DIEPPE AVE SW, BLDG B6, STE 101, CALGARY, CANADA, AB, T3E 7J9
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+14. INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+Monthly ISSN: 0278-3649
+SAGE PUBLICATIONS LTD, 1 OLIVERS YARD, 55 CITY ROAD, LONDON, ENGLAND, EC1Y 1SP
+Science Citation Index
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+15. INTERNATIONAL JOURNAL OF SOCIAL ROBOTICS
+Quarterly ISSN: 1875-4791
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+16. JOURNAL OF BIONIC ENGINEERING
+Quarterly ISSN: 1672-6529
+SCIENCE PRESS, 16 DONGHUANGCHENGGEN NORTH ST, BEIJING, PEOPLES R CHINA, 100717
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+17. JOURNAL OF FIELD ROBOTICS
+Bimonthly ISSN: 1556-4959
+WILEY, 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+18. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+Monthly ISSN: 0921-0296
+SPRINGER, VAN GODEWIJCKSTRAAT 30, DORDRECHT, NETHERLANDS, 3311 GZ
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+19. JOURNAL OF MECHANISMS AND ROBOTICS-TRANSACTIONS OF THE ASME
+Bimonthly ISSN: 1942-4302
+ASME, TWO PARK AVE, NEW YORK, USA, NY, 10016-5990
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+20. REVISTA IBEROAMERICANA DE AUTOMATICA E INFORMATICA INDUSTRIAL
+Quarterly ISSN: 1697-7912
+COMITE ESPANOL AUTOMATICA CEA, C VERA 14, APDO 22012, VALENCIA, SPAIN, E-46071
+Science Citation Index Expanded
+21. ROBOTICA
+Bimonthly ISSN: 0263-5747
+CAMBRIDGE UNIV PRESS, 32 AVENUE OF THE AMERICAS, NEW YORK, USA, NY, 10013-2473
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+22. ROBOTICS AND AUTONOMOUS SYSTEMS
+Monthly ISSN: 0921-8890
+ELSEVIER SCIENCE BV, PO BOX 211, AMSTERDAM, NETHERLANDS, 1000 AE
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+23. ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+Bimonthly ISSN: 0736-5845
+PERGAMON-ELSEVIER SCIENCE LTD, THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND, OX5 1GB
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+24. SCIENCE ROBOTICS
+Monthly ISSN: 2470-9476
+AMER ASSOC ADVANCEMENT SCIENCE, 1200 NEW YORK AVE, NW, WASHINGTON, USA, DC, 20005
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+25. SOFT ROBOTICS
+Quarterly ISSN: 2169-5172
+MARY ANN LIEBERT, INC, 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, USA, NY, 10801
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+26. SWARM INTELLIGENCE
+Quarterly ISSN: 1935-3812
+SPRINGER, 233 SPRING ST, NEW YORK, USA, NY, 10013
+Science Citation Index Expanded
+Current Contents - Engineering, Computing & Technology
+Zoological Record
