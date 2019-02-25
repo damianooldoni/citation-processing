@@ -225,7 +225,7 @@ shortlist_WOS_df <- tidy_WOS_df %>%
   filter(!journal %in% subscriptions_to_subtract$abbreviation)
 ```
 
-Number of journals removed:
+Number of journals removed in previous step:
 
 ```{r show_n_journals_removed}
 tidy_WOS_df %>% distinct(journal) %>% count() %>% pull() - 
