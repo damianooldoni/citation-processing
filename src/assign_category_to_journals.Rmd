@@ -1,0 +1,221 @@
+---
+title: "Assign WoS categories to journals"
+author: 
+- Damiano Oldoni
+- Rien De Raedt
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    theme: yeti
+    df_print: paged
+knit: (function(input_file, encoding) { rmarkdown::render(input_file, encoding = encoding, output_file = paste0("../docs/",sub(".Rmd", ".html", basename(input_file))))})
+---
+
+
+```{r global_options, include = FALSE}
+knitr::opts_chunk$set(warning=FALSE, message=FALSE)
+```
+
+# Setup
+ 
+## Load libraries
+ 
+```{r load_libraries, message = FALSE}
+library(tidyverse)  # to do data science
+library(here)       # to find files
+```
+
+## File paths
+
+Specify the directory containing text files:
+
+```{r path_file}
+files_dir <- here("data", "raw")
+```
+
+Each category is a text file. All text files start with `SCIENCE CITATION INDEX EXPANDED - `
+
+```{r extract_names_from_dir}
+pattern <- "SCIENCE CITATION INDEX EXPANDED - "
+files_all <- dir(files_dir)
+files <- files_all[which(str_detect(files_all, pattern = pattern))]
+# examples
+files[1:10]
+```
+
+# Load and tidy data
+
+## Import journals in categories
+
+Import the text files containing the journals for each category as a list of raw dataframes:
+
+```{r import_data, warning=FALSE}
+journals_raw <- map(files, ~ read_tsv(
+  str_c(files_dir, ., sep = "/"),
+  col_names = FALSE, 
+  col_types = cols(X1 = col_character())))
+```
+
+We extract the category from very first line of each file and assign it as names of each element of the list:
+
+```{r extract_categories}
+categories <- map(
+  journals_raw, function(df) {
+    unlist(str_split(df$X1[1], pattern = " - "), 
+           recursive = TRUE)[2]
+  }
+)
+names(journals_raw) <- categories
+```
+
+We extract the journals by selecting rows starting with a number followed by a dot and a space, e.g. `1. ACTAS UROLOGICAS ESPANOLAS`:
+
+```{r extract_journals}
+journals_category <- map(
+  journals_raw, function(df) {
+    df %>%
+      filter(str_detect(X1, "^[0-9]*\\. "))
+   }
+)
+```
+
+We merge the list of dataframes, we add category as second column and we remove the pattern number + dot + space from each row. For example,  `1. ACTAS UROLOGICAS ESPANOLAS` becomes `ACTAS UROLOGICAS ESPANOLAS`:
+
+```{r add_column_category_merge_df}
+journals_df <- map2_dfr(
+  journals_category, names(journals_category), function(df, cat) {
+    df %>% 
+      mutate(category = cat)
+  }
+) %>%
+  rename(journal = X1) %>%
+  mutate(journal = str_remove(journal, "^[0-9]*\\. "))
+```
+
+
+Preview:
+
+```{r preview journals_and_cat}
+journals_df %>% head()
+```
+
+Number of distinct journals:
+
+```{r n_unique_journals}
+n_journals <- distinct(journals_df %>% select(journal)) %>% nrow
+n_journals
+```
+
+# Overview and basic statistics
+
+## Category statistics
+
+Number of journals in each category:
+
+```{r n_journals_cat}
+journals_df %>%
+  group_by(category) %>%
+  count() %>%
+  arrange(desc(n))
+```
+
+Basic statistics (minimum, maximum, first quartile, median, mean, third quartile):
+
+```{r average_st_dev_cat}
+journals_df %>%
+  group_by(category) %>%
+  count() %>%
+  summary()
+```
+
+## Journals statistics
+
+A journal can be linked to more categories: for this reason the number of journals is much lower than number of rows of `journals_df`. We calculate for each journal how many categories it belongs to:
+
+```{r journals_in_categories}
+n_cat_per_journals <- 
+  journals_df %>%
+  group_by(journal) %>%
+  count() %>%
+  arrange(desc(n))
+```
+
+Preview:
+
+```{r n_cat_per_journals}
+n_cat_per_journals %>% head(n = 10)
+```
+
+Number of journals in two or more categories:
+
+```{r multidisciplinarity}
+n_cat_per_journals %>%
+  filter(n > 1) %>%
+  nrow()
+```
+
+in percentage:
+
+```{r}
+n_cat_per_journals %>%
+  filter(n > 1) %>%
+  nrow() / n_journals * 100
+```
+
+Maximum number of categories a journal belongs to:
+
+```{r}
+max_categories <- max(n_cat_per_journals$n)
+max_categories
+```
+
+We spread the name of the journals to columns:
+
+```{r expand_columns}
+journals_df_expand <- journals_df %>%
+  group_by(journal) %>%
+  summarize(categories = paste(category, collapse = ";")) %>%
+  separate(categories, 
+           into = map_chr(
+             seq(1, max_categories), function(n) {
+               str_c("category", n, collapse = "_")
+               }
+             ),
+           sep = ";",
+           extra = "merge",
+           fill = "right"
+)
+journals_df_expand
+```
+
+# Save output
+
+## Save tidy dataframe
+
+We save the tidy dataframe `journals_df` as tab separated text file, `journal_category_tidy.tsv`, in `data/processed`:
+
+```{r tidy_df_save}
+journals_df %>%
+  write_tsv(
+    path = here("data", "processed", "journal_category_tidy.tsv"),
+    na = "")
+```
+
+It will be the start point of any further data analysis.
+
+## Save expanded dataframe
+
+We save also the expanded dataframe in tab separated text file `category_of_journals_expanded.tsv` in folder `data/processed`:
+
+```{r expand_df}
+journals_df_expand %>%
+  write_tsv(
+    path = here("data", "processed", "category_of_journals_expanded.tsv"),
+    na = "")
+```
+
+This file is a better overview.

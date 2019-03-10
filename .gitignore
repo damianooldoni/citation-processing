@@ -2,10 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-# exclude everything in data
-/data
+# exclude these folders and files
+/data/raw/RMS_voorafname_WoS_match v.5.xlsx
+/data/raw/Wos advanced search query results_verwerking
+/data/processed
 # except these files
-!/data/raw/raw_example.txt
-!/data/processed/processed_example.txt
-!/data/raw/WoS_journal_titel_abbreviations.xlsx
-!/data/raw/SCIENCE CITATION INDEX EXPANDED*
+!/data/processed/category_of_journals_expanded.tsv
+!/data/processed/journal_category_tidy.tsv
