@@ -5,7 +5,5 @@
 # exclude these folders and files
 /data/raw/RMS_voorafname_WoS_match v.5.xlsx
 /data/raw/Wos advanced search query results_verwerking
-/data/processed
-# except these files
-!/data/processed/category_of_journals_expanded.tsv
-!/data/processed/journal_category_tidy.tsv
+/data/processed/percentile_threshold_journals.txt
+/data/processed/tidy_WOS_df.txt
